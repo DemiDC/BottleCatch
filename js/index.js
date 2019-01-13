@@ -78,3 +78,36 @@ function runLogic(){
 }
 
 
+
+
+
+
+
+---------------------------------------------
+    
+let first = document.getElementByID("button1");
+let second = document.getElementByID("button2");
+
+
+function main(){
+    choice = document.getElementByID(id);
+    if(first === "Try going back to sleep") {
+        document.getElementById("first").innerHTML = links[15]
+    }
+    else if(second === "Go to Saizeriya anyways") {
+        document.getElementById("second").innerHTML = links[0]
+    }
+}
+
+
+------------------------------------------------
+
+
+['<div>
+    <label for="First">Try going back to sleep</label><input type="checkbox" id = "First" onclick = "button1";>
+    <label for="Second">Go to Saizeriya anyways</label><input type="checkbox"  id = "Second" onclick = "button2";>
+</div>'
+
+<button onclick="main();">
+    Submit
+</button>']
