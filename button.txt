@@ -1,0 +1,40 @@
+[   '<button style="height:30px" class="left-button" onclick="main(0)">
+            Try Going Back To Sleep
+        </button>
+        <button style="height:30px" class="right-button" onclick="main(1)">
+            Go To Saizeriya Anyways
+        </button>',
+
+        <button style="height:30px" class="left-button" onclick="run(2)">
+            Try Going Back To Sleep
+        </button>
+        <button style="height:30px" class="left-button" onclick="main(11)">
+                    Next
+        </button>
+        <button style="height:30px" class="right-button" onclick="main(3)">
+            Go To Saizeriya Anyways
+        </button>',
+
+        <button style="height:30px" class="left-button" onclick="main(4)">
+            Try Going Back To Sleep
+        </button>
+        <button style="height:30px" class="right-button" onclick="main(5)">
+            Go To Saizeriya Anyways
+        </button>',
+
+        <button style="height:30px" class="left-button" onclick="main(6)">
+            Try Going Back To Sleep
+        </button>
+        <button style="height:30px" class="right-button" onclick="main(7)">
+            Go To Saizeriya Anyways
+        </button>',
+]
+
+
+saiz text:
+    https://www.youtube.com/watch?v=ZwDvSS58WoU
+
+can't sleep:
+    https://www.youtube.com/watch?v=4hKIDNXEuk0
+
+
