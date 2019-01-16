@@ -1,4 +1,4 @@
-let video_files=["/ZwDvSS58WoU","/oWSSxPIqFQ0","/4hKIDNXEuk0","/V1BL_tt1ZAM","/HTjRevSJ2Qg","/UiAuOCgUUb8","/7ZzKfJVaf6Q","/SO7S3M0VHaU","/0KoIGFaM1zM","/4umUWjQ5geM","/Q1XdYl8IXxE","/pqvQEL5j6KI","/dWwc8sevzzo","/jhLoQcw5iO8","/3DgbYrKrOo0","/FNyVagkTEWM"];
+let video_files=["/ZwDvSS58WoU?&autoplay=1","/oWSSxPIqFQ0","/4hKIDNXEuk0","/V1BL_tt1ZAM","/HTjRevSJ2Qg","/UiAuOCgUUb8","/7ZzKfJVaf6Q","/SO7S3M0VHaU","/0KoIGFaM1zM","/4umUWjQ5geM","/Q1XdYl8IXxE","/pqvQEL5j6KI","/dWwc8sevzzo","/jhLoQcw5iO8","/3DgbYrKrOo0","/FNyVagkTEWM"];
 
 let options=['<button style="height:30px" class="left-button" onclick="run(1)">Try going back to sleep?</button><button style="height:30px" class="right-button" onclick="run(4)">Go to Saizeriya anyways?</button>',
              '<button style="height:30px" class="left-button" onclick="run(2)">Next</button>',
